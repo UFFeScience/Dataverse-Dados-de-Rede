@@ -14,3 +14,9 @@ Este repositório reúne scripts que fazem desde a preparação/transformação 
 - Possibilidade de reutilização para diferentes estudos ou datasets  
 
 
+## 🚀 Como usar / baixar
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/UFFeScience/Dataverse-Dados-de-Rede.git
+   cd Dataverse-Dados-de-Rede
